@@ -1,0 +1,15 @@
+{
+  "name": "TRUTH TRACE",
+  "short_name": "TRUTH TRACE",
+  "description": "Personal digital forensics lab for local media examination",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#091426",
+  "icons": [
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}
+  ]
+}
